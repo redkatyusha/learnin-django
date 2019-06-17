@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/Users/dawnlifsey/.local/share/virtualenvs/learnin-django-8YSFmHuf/bin/python",
+    "python.linting.pylintEnabled": false,
+    "python.linting.prospectorEnabled": true,
+    "python.linting.enabled": true
+}
