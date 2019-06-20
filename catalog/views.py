@@ -143,7 +143,7 @@ class BookCreate(CreateView):
     fields = '__all__'
 
 
-class BookUpdate(PermissionRequiredMixin, UpdateView):
+class BookUpdate(UpdateView):
     model = Book
     fields = '__all__'
 
